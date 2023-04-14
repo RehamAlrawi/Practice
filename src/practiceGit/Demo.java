@@ -7,5 +7,9 @@ public class Demo {
 	}
 	String Name ="Reham";
 	int age = 28;
+	
+	public void add () {
+		System.out.println(1 + 1);
+	}
 
 }
