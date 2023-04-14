@@ -6,5 +6,6 @@ public class Demo {
 		System.out.println("Hello team");
 	}
 	String Name ="Reham";
+	int age = 28;
 
 }
